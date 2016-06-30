@@ -1,6 +1,3 @@
-# home
-This repo contains getting started, and overview information for integrating with Trimble Connect.
-
 # How to get started with Trimble Connect
 
 Below is some information that will help you get started interating with Trimble Connect.
